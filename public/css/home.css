@@ -1,0 +1,9 @@
+
+.card {
+  -webkit-transition-duration: 0.25s;
+  transition-duration: 0.25s;
+}
+.card:hover{
+  -webkit-transform: scale(110%);
+  transform: scale(110%);
+}

@@ -1,0 +1,51 @@
+nav{
+    font-family: 'Poppins',sans-serif;
+}
+.logo{
+    font-weight: bold;
+    font-size: x-large;
+}
+.profileimage{
+     /* border: 2px solid #6610f2;
+     border-radius: 100%; */
+    width:40px;
+    height: 40px;
+}
+.signin{
+    border:none;
+    background-color:dodgerblue;
+}
+.signin:hover{
+    filter: brightness(90%);
+}
+.search {
+    position: relative;
+}
+.search input {
+
+    text-indent: 25px;
+
+}
+
+.search .fa-search {
+    position: absolute;
+    top: 11px;
+    left: 12px
+}
+
+.aa:hover{
+    background-color:#ffff;
+}
+.aa:active{
+    color: black;
+    background-color:#ffff ;
+}
+.dd:hover{
+    background-color: #e8e8fd;
+}
+.dd:active{
+background-color: dodgerblue;
+}
+.categoryselect:hover{
+    background-color: rgb(47, 47, 248);
+}

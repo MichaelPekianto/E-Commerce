@@ -1,0 +1,19 @@
+
+.updatebtn:hover{
+    filter: brightness(90%);
+}
+.deletebtn:hover{
+    filter: brightness(90%);
+}
+table {
+    border-collapse: separate;
+    border-spacing:0 30px;
+}
+.productrow:hover {background-color: rgba(152, 203, 255, 0.247);}
+.submitlogin{
+    border:none;background-color:rgb(46, 46, 245);
+
+}
+.submitlogin:hover{
+    filter: brightness(90%);
+}

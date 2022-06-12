@@ -1,0 +1,9 @@
+
+
+.desc{
+     text-align: left;
+     max-width: 49%;
+     overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+}
